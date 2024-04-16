@@ -5,7 +5,7 @@ include('connection.php');
 <!DOCTYPE html>
 <html>
 <head>
-<title>College-Notes-Gallery</title>
+<title>College-Notes</title>
  <script src="dashboard/js/tinymce/tinymce.min.js"></script>
     <script src="dashboard/js/tinymce/script.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
