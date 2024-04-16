@@ -30,7 +30,7 @@
 <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav">
                     <li>
-                        <a href="index" class="active"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>
+                        <a href="index.php" class="active"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>
                     </li>
                 <?php if($_SESSION['role'] == 'admin') {
                     ?>
